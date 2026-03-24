@@ -51,7 +51,7 @@
 ## 🛠️ 设置建议
 
 *   **词库路径**：默认为 `Spanish_Vocabulary`，您可以自定义。
-*   **AI 增强**：支持配置 DeepSeek API，一键生成 AI 语法解析和例句。
+*   **AI 增强**：支持配置 DeepSeek、OpenAI、Gemini、Claude多家大模型API，一键生成 AI 语法解析和例句。
 
 ---
 
