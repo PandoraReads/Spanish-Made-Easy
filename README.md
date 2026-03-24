@@ -132,10 +132,4 @@ If you enjoy this plugin, please support us:
 
 ---
 
-## 📝 License
-
-This plugin is licensed under the MIT License.
-
----
-
 *¡¡Buen viaje en el español!!*
