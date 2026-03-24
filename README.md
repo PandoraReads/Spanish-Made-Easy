@@ -63,7 +63,7 @@ SME now supports both **Chinese** and **English** interfaces:
 *   Customize both in plugin settings to match your workflow
 
 ### AI Integration (Optional)
-*   Configure your preferred AI provider (DeepSeek, Gemini, or Ark)
+*   Configure your preferred AI provider (DeepSeek, Gemini, Claude, OpenAI or Ark)
 *   Enter your API key in settings
 *   Use AI features in highlight notes for instant translations and grammar analysis
 
