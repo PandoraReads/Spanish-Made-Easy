@@ -1,6 +1,6 @@
 # Spanish Made Easy (SME) - Obsidian Spanish Learning Assistant
 
-**Spanish Made Easy (SME)** is a comprehensive Spanish learning plugin designed specifically for Obsidian. It integrates a dictionary assistant, FSRS flashcard memory system, and video shadowing features to provide you with the smoothest immersive Spanish learning experience possible.
+**Spanish Made Easy (SME)** is a comprehensive Spanish learning plugin designed specifically for Obsidian. It integrates a dictionary assistant, FSRS flashcard memory system, and video shadowing features to provide you with the smoothest immersive Spanish learning experience possible.（[中文简介](https://github.com/PandoraReads/obsidian-English-Made-Easy.git)）
 
 ### More Language Learnng Plugins
 - 🇬🇧 [English](https://github.com/PandoraReads/obsidian-English-Made-Easy.git)
