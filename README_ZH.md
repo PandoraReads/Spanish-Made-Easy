@@ -1,10 +1,9 @@
 # Spanish Made Easy (SME) - Obsidian 西班牙语学习助手
 
-[![Plugin Version](https://img.shields.io/github/v/release/papple/obsidian-english-made-easy?label=Version&color=blue)](https://github.com/papple/obsidian-english-made-easy/releases)
-[![Obsidian Version](https://img.shields.io/badge/Obsidian-v3.4.0%2B-purple)](https://obsidian.md)
-
 **Spanish Made Easy (SME)** 是一款专为 Obsidian 打造的全方位西班牙语学习插件。它集成了查词助手、FSRS 闪卡记忆和视频跟读功能，旨在为您提供最顺滑的沉浸式西班牙语学习体验。
 
+[![Plugin Version](https://img.shields.io/github/v/release/papple/obsidian-english-made-easy?label=Version&color=blue)](https://github.com/papple/obsidian-english-made-easy/releases)
+[![Obsidian Version](https://img.shields.io/badge/Obsidian-v3.4.0%2B-purple)](https://obsidian.md)
 ---
 
 ## 🚀 核心功能
